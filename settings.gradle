@@ -1,0 +1,2 @@
+rootProject.name = "Vaccinox"
+include ':app'
