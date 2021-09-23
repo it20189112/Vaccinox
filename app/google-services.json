@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "470835951135",
+    "project_id": "vaccinox-beta",
+    "storage_bucket": "vaccinox-beta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470835951135:android:88e2336cd8f4909d18072a",
+        "android_client_info": {
+          "package_name": "tes.madproject.vaccinox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470835951135-qntbadpg4vt4e3uoui8gv6i0hepb1pea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tes.madproject.vaccinox",
+            "certificate_hash": "7f15b79dd47934d76eabb09bf23914cbe253174f"
+          }
+        },
+        {
+          "client_id": "470835951135-35juujhmpimf4usd0f8u2n53ok05upu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASjgMVllgnAvBTZ1bK3yDqBS_60zmp1es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470835951135-35juujhmpimf4usd0f8u2n53ok05upu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
